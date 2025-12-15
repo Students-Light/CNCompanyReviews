@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.vitepress/cache/
+.vitepress/dist/
+.temp/
+.cache/
+package-lock.json
+docs/.vitepress/cache/
+docs/.vitepress/dist/

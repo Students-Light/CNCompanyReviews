@@ -1,0 +1,82 @@
+/* 自定义样式 */
+.vp-doc {
+  max-width: 1200px;
+}
+
+/* 免责声明样式 */
+.disclaimer {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-left: 4px solid #f59e0b;
+  border-radius: 8px;
+  color: #fff;
+}
+
+.disclaimer-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.disclaimer-content {
+  line-height: 1.8;
+  font-size: 0.95rem;
+}
+
+.disclaimer-content ul {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+}
+
+.disclaimer-content li {
+  margin: 0.5rem 0;
+}
+
+/* 提交指南样式 */
+.submit-guide {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  border-radius: 8px;
+  color: #fff;
+}
+
+.submit-guide-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.submit-guide ol {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+  line-height: 1.8;
+}
+
+.submit-guide li {
+  margin: 0.5rem 0;
+}
+
+/* 深色模式适配 */
+.dark .disclaimer,
+.dark .submit-guide {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+/* 响应式 */
+@media (max-width: 768px) {
+  .disclaimer,
+  .submit-guide {
+    padding: 1rem;
+    margin: 1.5rem 0;
+  }
+
+  .disclaimer-title,
+  .submit-guide-title {
+    font-size: 1.1rem;
+  }
+}

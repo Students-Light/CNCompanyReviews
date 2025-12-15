@@ -18,7 +18,7 @@ onMounted(() => {
   import('https://unpkg.com/@waline/client@v2/dist/waline.mjs').then(({ init }) => {
     init({
       el: '#waline-comment',
-      serverURL: 'https://cncompany-pphgs96uu-students-lights-projects.vercel.app', // Waline 服务器地址
+      serverURL: 'https://cncompany-waline.vercel.app', // Waline 服务器地址
       placeholder: '💬 匿名爆料...（请注意去除图片中的隐私水印）',
       dark: 'auto',
       locale: {

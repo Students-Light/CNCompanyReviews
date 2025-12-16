@@ -38,7 +38,7 @@
 
 ### 方式一：在线爆料（推荐）
 
-1. 访问 [网站首页]((https://cn-company-reviews.vercel.app/))
+1. 访问 [网站首页](https://cn-company-reviews.vercel.app/)
 2. 滚动到页面底部的"匿名评论区"
 3. 直接留言，格式：`【城市名】公司名 - 避坑理由`
 4. 无需登录，完全匿名

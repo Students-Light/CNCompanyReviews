@@ -20,7 +20,7 @@
 
 ## 🌐 访问地址
 
-- **主站**：[https://cncompany.vercel.app](https://cncompany.vercel.app)
+- **主站**：[https://cncompany.vercel.app](https://cn-company-reviews.vercel.app/)
 - **GitHub**：[https://github.com/Students-Light/CNCompanyReviews](https://github.com/Students-Light/CNCompanyReviews)
 
 ## 📋 已收录城市
@@ -38,7 +38,7 @@
 
 ### 方式一：在线爆料（推荐）
 
-1. 访问 [网站首页](https://cncompany.vercel.app)
+1. 访问 [网站首页]((https://cn-company-reviews.vercel.app/))
 2. 滚动到页面底部的"匿名评论区"
 3. 直接留言，格式：`【城市名】公司名 - 避坑理由`
 4. 无需登录，完全匿名
